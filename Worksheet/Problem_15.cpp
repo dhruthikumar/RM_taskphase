@@ -27,9 +27,9 @@ int main()
     cin >> num;
     int array [num];
     cout<<"Enter " << num << " Numbers: ";
-    for (int i = 0; i < num; i++)
+    for (int i = 0; i < num; i++){
         cin >> array[i];
-    
+    }
     bubble_sort(array, num);    
 
     for (int i = 0; i < num; i++){
