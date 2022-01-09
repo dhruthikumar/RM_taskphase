@@ -5,4 +5,6 @@
 [Week 3: Arduino Worksheet](https://github.com/dhruthikumar/RM_taskphase/tree/main/Week_3)
 ## Progress reports
 [Progress Report 1](https://github.com/dhruthikumar/RM_taskphase/blob/main/Progress_Reports/Progress_Report_01.pdf)
+[Progress Report 2](https://github.com/dhruthikumar/RM_taskphase/blob/main/Progress_Reports/Progress_Report_02.pdf)
+[Progress Report 3](https://github.com/dhruthikumar/RM_taskphase/blob/main/Progress_Reports/Progress_Report_03.pdf)
 
